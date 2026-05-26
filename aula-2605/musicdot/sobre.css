@@ -1,0 +1,22 @@
+body {
+  font-family: "Helvetica", "Lucida	Grande" "Times New Roman", Times, serif;
+  color: #3e403f;
+  text-align: center;
+}
+
+h1 {
+  background-color: #558279;
+  text-align: center;
+}
+
+h2 {
+  border-bottom: 2px solid black;
+  text-align: center;
+}
+
+figure {
+  text-align: center;
+
+  background-color: #5b4b61;
+  border: 1px solid lightgrey;
+}
